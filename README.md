@@ -8,6 +8,8 @@
 
 * 🌱 I’m currently learning and practise in nodejs creating api aplications.
 
+- 😄 I'm interested in... Always know in depth user interface techniques, in which they can be guided by their visual elements to optimize their use.
+
 > 🖱 [Visualize my proyects](https://franco-carrera.github.io/)
 
 > 📫 [Email contact](carrerafranco825@gmail.com)
@@ -28,10 +30,6 @@
  
  
 ![Franco-Carrera GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Carrera&show_icons=true&theme=radical) 
-
-### Know about me: 
-
-- 
 
 
 <!--
