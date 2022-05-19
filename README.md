@@ -1,6 +1,6 @@
 # Hello 👋, I’m Franco
 
-### Actual Developer _Frontend_ && _Backend_
+### Actual developer _Frontend_ && _Backend_
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Franco-Carrera)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -10,7 +10,7 @@
 
 > 🖱 [Visualize my proyects](https://franco-carrera.github.io/)
 
->  📫 [Email contact](carrerafranco825@gmail.com)
+> 📫 [Email contact](carrerafranco825@gmail.com)
 
 
 
