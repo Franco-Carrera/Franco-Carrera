@@ -12,7 +12,10 @@
 
 >  📫 [Email contact](carrerafranco825@gmail.com)
 
+![Franco-Carrera GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Carrera&show_icons=true&theme=radical)
 
+
+ ### Networks connect
 
 
 <!--
