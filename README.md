@@ -18,10 +18,15 @@
 
  ### Networks connect
  
- <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franco-carrera-8ba991207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franco-carrera-8ba991207/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/francocarrera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/francocarrera1" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/franco-carrera-desarrollador-web/" target="_blank" align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franco-carrera-8ba991207/" height="30" width="40"/>
+</a>
+
+
+<a href="https://www.behance.net/francocarrera1" target="_blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/francocarrera1" height="30" width="40"/>
+</a>
+
  
  
  
