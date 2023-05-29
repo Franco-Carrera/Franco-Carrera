@@ -1,13 +1,13 @@
 # Hello 👋, I’m Franco
 
-### Actual developer _Frontend_ UI && _Backend_
+### Actual QA Analyst
 
 
-* 🔭 I’m currently working on **React Js** proyects
+* 🔭 
 
-* 🌱 I’m currently learning and practise in nodejs creating api aplications.
+* 🌱 
 
-- 😄 I'm interested in... Always know in depth user interface techniques, in which they can be guided by their visual elements to optimize their use.
+- 😄 
 
 > 🖱 [Visualize my proyects](https://franco-carrera.github.io/)
 
