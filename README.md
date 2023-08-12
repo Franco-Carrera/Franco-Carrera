@@ -1,6 +1,6 @@
 # Hello 👋, I’m Franco
 
-### Actual QA Analyst
+### Actual QA Tester
 
 
 * 🔭 
