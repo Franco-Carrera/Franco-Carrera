@@ -1,6 +1,6 @@
 # Hello 👋, I’m Franco
 
-### Actual QA Ankalyst
+### Actual QA Analyst
 
 
 * 🔭 
